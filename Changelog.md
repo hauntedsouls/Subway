@@ -4,8 +4,7 @@
 
 ### December 1st Week
 
-- [x] Main Game Development Started
-
+- [x] Main Game Development Started 
 
 
 
