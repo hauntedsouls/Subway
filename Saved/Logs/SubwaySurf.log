@@ -742,3 +742,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2018.12.08-13.12.59:260][418]LogSavePackage: Moving '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/Map99055A2D432AC5A56A13278A1325A6BC.tmp' to '../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map.umap'
 [2018.12.08-13.12.59:413][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map_BuiltData.uasset" SILENT=true
 [2018.12.08-13.12.59:515][418]LogSavePackage: Moving '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/Map_BuiltData412D727243B6B28B1149A7A56A881599.tmp' to '../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map_BuiltData.uasset'
+[2018.12.08-13.18.51:724][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-13.18.56:192][934]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content: 'D:/Programs/Epic Games/UE_4.21/Engine/Content' is outside repository
+[2018.12.08-13.18.56:310][934]EditorErrors: Warning: No assets to check in!
+[2018.12.08-13.19.07:200][586]SourceControl: Source control is disabled
+[2018.12.08-13.19.07:201][586]LogSlate: Window 'Source Control Login' being destroyed
+[2018.12.08-13.19.20:937][129]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2018.12.08-13.19.20:937][129]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2018.12.08-13.19.44:183][793]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2018.12.08-13.19.44:184][793]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2018.12.08-13.20.03:602][ 75]LogSlate: Window 'Source Control Login' being destroyed
+[2018.12.08-13.20.10:982][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.12.08-13.20.12:319][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-13.27.25:291][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-13.27.25:423][985]LogSavePackage: Moving '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/Map6FA1D24B450B8CB8A30BFFB1E6AFD83B.tmp' to '../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map.umap'
+[2018.12.08-13.27.25:523][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_BuiltData" FILE="../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map_BuiltData.uasset" SILENT=true
+[2018.12.08-13.27.25:569][985]LogSavePackage: Moving '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/Map_BuiltData099868D54459A9BDD855F395BDF90129.tmp' to '../../../../../../Danny/Unreal_engine/GitHub/Subway/Content/Maps/Map_BuiltData.uasset'
+[2018.12.08-13.27.27:725][111]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content: 'D:/Programs/Epic Games/UE_4.21/Engine/Content' is outside repository
+[2018.12.08-13.27.32:876][111]LogSlate: Window 'Submit Files' being destroyed
+[2018.12.08-13.27.33:603][111]LogSourceControl: commit successful: [master 21e2615] Map
+[2018.12.08-13.27.33:661][111]SourceControl: [master 21e2615] Map
+[2018.12.08-13.27.33:661][111]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.12.08-13.27.33:666][111]SourceControl: Commited [master 21e2615] Map.
+[2018.12.08-13.33.16:958][898]SourceControl: fatal: /Script: '/Script' is outside repository
+[2018.12.08-13.33.42:125][285]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.08-13.33.42:131][285]LogSlate: Window 'Editor Preferences' being destroyed
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/EngineSky: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/EngineSky' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/EngineMaterials: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/EngineMaterials' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/BasicShapes/Cube.uasset: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/BasicShapes/Cube.uasset' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2018.12.08-13.33.46:280][443]SourceControl: fatal: D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/MaterialLayerFunctions: 'D:/Programs/Epic Games/UE_4.21/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2018.12.08-13.33.46:499][443]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.12.08-13.33.46:499][443]SourceControl: Error: error: please commit or stash them.
+[2018.12.08-13.33.46:504][443]LogContentBrowser: Syncing 1 path(s):
+[2018.12.08-13.33.46:504][443]LogContentBrowser: 	 - /Game/ThirdPersonBP/ThirdPersonOverview
+[2018.12.08-13.33.46:504][443]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2018.12.08-13.33.46:504][443]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2018.12.08-13.33.46:505][443]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/ThirdPersonBP/ThirdPersonOverview
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2018.12.08-13.33.46:665][443]LogUObjectGlobals: Display: ReloadPackage failed to find a replacement object for 'Default__ThirdPersonCharacter_C:CollisionCylinder.BodySetup_0' (transient) in the new package '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter'. Any existing references to this object will be nulled out.
+[2018.12.08-13.33.51:614][702]SourceControl: Source control is disabled
+[2018.12.08-13.33.51:614][702]LogSlate: Window 'Source Control Login' being destroyed
+[2018.12.08-13.35.33:784][529]LogSlate: Window 'Source Control Login' being destroyed
+[2018.12.08-13.36.07:662][464]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-13.36.07:677][464]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.08-13.36.07:677][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.08-13.36.07:677][464]PIE: New page: PIE session: Map (Dec 8, 2018, 5:36:07 PM)
+[2018.12.08-13.36.07:677][464]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map
+[2018.12.08-13.36.07:680][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002439s)
+[2018.12.08-13.36.07:680][464]LogAIModule: Creating AISystem for world Map
+[2018.12.08-13.36.07:681][464]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2018.12.08-13.36.07:681][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map.Map to /Game/Maps/UEDPIE_0_Map.Map (0.003855s)
+[2018.12.08-13.36.07:709][464]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-13.36.07:724][464]LogInit: FAudioDevice initialized.
+[2018.12.08-13.36.07:759][464]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.08-13.36.07:761][464]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2018.12.08-15.36.07
+[2018.12.08-13.36.07:761][464]LogWorld: Bringing up level for play took: 0.000795
+[2018.12.08-13.36.07:783][464]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map 1.067
+[2018.12.08-13.36.07:783][464]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.08-13.36.08:497][505]LogBlueprintUserMessages: [MasterTile_C_0] 1
+[2018.12.08-13.36.09:780][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.08-13.36.09:781][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-13.36.09:820][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-13.36.09:820][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map.Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map.Map:PersistentLevel.Map' with GeneratedClass '/Game/Maps/Map.Map_C' with ClassGeneratedBy '/Game/Maps/Map.Map:PersistentLevel.Map'
+[2018.12.08-13.36.09:845][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-13.36.09:890][584]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.08-13.36.14:520][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-13.36.14:893][844]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/RunnerFiles/Blueprints/Hud.Hud
+[2018.12.08-13.36.15:386][844]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2018.12.08-13.36.16:153][844]LogSlate: Took 0.000951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.08-13.36.36:146][ 10]LogSlate: Window 'Hud' being destroyed
+[2018.12.08-13.36.36:151][ 10]LogSlate: Window 'Hud' being destroyed
+[2018.12.08-13.36.39:901][198]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RunnerFiles/Blueprints/MasterTile.MasterTile
+[2018.12.08-13.36.41:435][258]LogSlate: Took 0.001114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.08-13.37.13:378][141]BlueprintLog: New page: Compile MasterTile
+[2018.12.08-13.37.47:098][137]LogSlate: Window 'MasterTile*' being destroyed
+[2018.12.08-13.37.47:104][137]LogSlate: Window 'MasterTile*' being destroyed
+[2018.12.08-13.37.48:720][205]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2018.12.08-13.37.48:720][205]SourceControl: Error: error: please commit or stash them.
+[2018.12.08-13.37.48:724][205]LogContentBrowser: Syncing 1 path(s):
+[2018.12.08-13.37.48:724][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/CoinMain
+[2018.12.08-13.37.48:724][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/Coins
+[2018.12.08-13.37.48:724][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/Crate_Diffuse
+[2018.12.08-13.37.48:724][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/BoxMain
+[2018.12.08-13.37.48:724][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/box
+[2018.12.08-13.37.48:725][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/PipeMain
+[2018.12.08-13.37.48:725][205]LogContentBrowser: 	 - /Game/RunnerFiles/Meshes/Low_Obstacles_Pipes
+[2018.12.08-13.37.48:725][205]LogUObjectGlobals: Reloading 7 Package(s):
+	Asset Name: /Game/RunnerFiles/Meshes/CoinMain
+	Asset Name: /Game/RunnerFiles/Meshes/Coins
+	Asset Name: /Game/RunnerFiles/Meshes/Crate_Diffuse
+	Asset Name: /Game/RunnerFiles/Meshes/BoxMain
+	Asset Name: /Game/RunnerFiles/Meshes/box
+	Asset Name: /Game/RunnerFiles/Meshes/PipeMain
+	Asset Name: /Game/RunnerFiles/Meshes/Low_Obstacles_Pipes
+[2018.12.08-13.38.15:488][369]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map' took 0.032
+[2018.12.08-13.38.15:490][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RunnerFiles/Blueprints/MasterTile] ([1] browsable assets)...
+[2018.12.08-13.38.15:527][369]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RunnerFiles/Blueprints/MasterTile.MasterTile]
+[2018.12.08-13.38.15:527][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/RunnerFiles/Blueprints/MasterTile]
+[2018.12.08-13.38.15:580][369]LogSavePackage: Moving '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/MasterTile_Auto192A7C930444BFFEC217D65AE7DDA47B9.tmp' to '../../../../../../Danny/Unreal_engine/GitHub/Subway/Saved/Autosaves/Game/RunnerFiles/Blueprints/MasterTile_Auto1.uasset'
+[2018.12.08-13.38.15:582][369]LogFileHelpers: Auto-saving content packages took 0.093
