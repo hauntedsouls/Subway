@@ -10,7 +10,6 @@
  # ✨ Runner Game UE4 ✨ 
 
 
-
 | **Licence** | [![Licence](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) |
 | :---: | :---: | 
 | **Build** | ![Build status](https://img.shields.io/badge/build-passing-brightgreen.svg) |
@@ -21,13 +20,14 @@
 | **Status** |  ![Status](https://img.shields.io/badge/server%20tests-failed-red.svg)|
 | **Backers** |  ![Comints](https://img.shields.io/badge/backers-1-brightgreen.svg)|
 | **Discord** |  <a href="https://discord.gg/4R6Nrh"> <img src="https://img.shields.io/discord/283969907748765697.svg?logo=discord" alt="chat on Discord"></a>|
-
+| **Changelog** |  [![Changelog](https://img.shields.io/badge/changelog-today-blue.svg)](https://github.com/SirReaDy/Subway/blob/master/Changelog.md)|
 
 
 [![Build history](https://buildstats.info/appveyor/chart/tygerbytes/resourcefitness)
 
 
 
+  # ✨ Runner Game UE4 ✨ 
 
 
 
