@@ -8,7 +8,7 @@
 
 
 
-> Objects
+:+1: Objects
 
 Obstacles :
 
@@ -22,7 +22,7 @@ Pickups :
 - Jetpack
 
 
-> ### Systems
+:+1:
 - [x] Increasing Speed
 - [x] Point Scoring
 - [x] Death System
@@ -35,7 +35,7 @@ Pickups :
 - Shop
 
 
-### UI
+:+1:
 
 - [x] `Pause Screen`.
 - [x] `EndGame Screen`.
@@ -45,14 +45,14 @@ Pickups :
 
 
 
-### Animations
+:+1:
 - [x] `New Animations` for pick ups.
 - [x] `New Magnet system` pickup.
 - [x] `Side Down` Animation for Character.
 - New Character Animations ( Death & Sliding)
 - 
 
-### Character
+:+1:
 
 - Main Character
 - Second Character
