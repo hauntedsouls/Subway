@@ -8,7 +8,7 @@
 
 
 
-### Objects
+> Objects
 
 Obstacles :
 
@@ -22,7 +22,7 @@ Pickups :
 - Jetpack
 
 
-### Systems
+> ### Systems
 - [x] Increasing Speed
 - [x] Point Scoring
 - [x] Death System
