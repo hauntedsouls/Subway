@@ -18,6 +18,7 @@ Obstacles :
 
 Pickups :
 - [x] Coins
+- [x] Magnet
 - Jetpack
 
 
@@ -32,7 +33,7 @@ Pickups :
 - Gesture Controls
 - Changing Character System
 - Shop
-
+- `Rework on Random Object Spawn`
 
 
 ### UI
