@@ -2,7 +2,7 @@
 # Changelog for the Game
 
 
-### December 1st Week
+### Main Updates
 
 - [x] Main Game Development Started 
 
@@ -33,7 +33,6 @@ Pickups :
 - Gesture Controls
 - Changing Character System
 - Shop
-- `Rework on Random Object Spawn`
 
 
 ### UI
@@ -58,7 +57,9 @@ Pickups :
 - Main Character
 - Second Character
 
+### Complimentary Updates
 
+`Rework on Random Object Spawn`
 
 
 
