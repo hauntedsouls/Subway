@@ -22,6 +22,9 @@ Pickups :
 - Jetpack
 
 
+
+
+
 :trophy: System
 - [x] Increasing Speed
 - [x] Point Scoring
@@ -35,6 +38,9 @@ Pickups :
 - Shop
 
 
+
+
+
 :trophy: UI
 
 - [x] `Pause Screen`.
@@ -45,12 +51,18 @@ Pickups :
 
 
 
+
+
+
 :trophy: Animations
 - [x] `New Animations` for pick ups.
 - [x] `New Magnet system` pickup.
 - [x] `Side Down` Animation for Character.
 - New Character Animations ( Death & Sliding)
-- 
+
+
+
+
 
 :trophy: Characters
 
