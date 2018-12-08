@@ -48,7 +48,7 @@ Pickups :
 
 ### Animations
 - [x] `New Animations` for pick ups.
-- [x] `New `Magnet system` pickup.
+- [x] `New Magnet system` pickup.
 - [x] `Side Down` Animation for Character.
 - New Character Animations ( Death & Sliding)
 - 
