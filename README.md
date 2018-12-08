@@ -34,6 +34,5 @@
 ## Contributors
 
 This project exists thanks to all the people who contribute.
-<a href="https://github.com/SirReaDy/Subway/graphs/contributors"><img src="https://opencollective.com/shields/contributors.svg?width=890" /></a>
 
 
